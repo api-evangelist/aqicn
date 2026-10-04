@@ -39,7 +39,6 @@ apis:
   - name: AQICN
     description: "Air Quality Index Data for over 1000 cities"
     humanURL: https://aqicn.org/api/
-    baseURL: https://aqicn.org/api/
     tags:
       - Weather
     properties:
